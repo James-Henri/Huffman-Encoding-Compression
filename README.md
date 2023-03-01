@@ -1,12 +1,12 @@
 # Huffman-Encoding-Compression
 Project trying to recreate a lossless data compression/decompression algorithm
 
-Had to research and use some well known algorithms such as 
-  -Move-to-front encoding (MTF)
-  -Burrows Wheeler Transform (BWT)
-  -Huffman Encoding
+Had to research and use some well known algorithms such as <br />
+  -Move-to-front encoding (MTF) <br />
+  -Burrows Wheeler Transform (BWT) <br />
+  -Huffman Encoding <br />
 
-To run the file there are a couple flags
+To run the file there are a couple flags <br />
 -b = do not use MTF and BWT
 -c = compressing file
 -d = decompressing file
