@@ -10,7 +10,8 @@ To run the file there are a couple flags <br />
 &emsp; -b = do not use MTF and BWT<br />
 &emsp; -c = compressing file<br />
 &emsp; -d = decompressing file<br />
-&emsp; -i = image file<br />
+&emsp; -i = input file<br />
+&emsp; -o = output file<br />
 <br />
 When using the b flag with .txt files, it may take a long time as the inverted BWT algorithm is not fully optimized<br />
 <br />
